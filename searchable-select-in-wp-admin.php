@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Admin Select2
+Plugin Name: Searchable Select at Admin (BootComposer)
 Description: Adds and initializes Select2 for all select elements in the WordPress admin dashboard.
 Version: 1.0
-Author: ServerMango.com
-Author URI: https://servermango.com
+Author: BootComposer Contributors
+Author URI: https://bootcomposer.org
 */
 
 // Prevent direct access to the file
